@@ -1,5 +1,5 @@
 
-# Merge - Video Chat for Online Interviews
+# LinkedIn -Clone using ReactJs
 
 **Project Link** - ***https://alanbinu-linkedin.web.app/***
 
